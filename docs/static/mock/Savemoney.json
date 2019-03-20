@@ -1,0 +1,27 @@
+{
+  "data":{
+    "blList": [
+      {
+        "id": "0001",
+        "imgUrlA": "static/img/sqmeau1.png",
+        "wordA": "低价手机"
+      }, {
+        "id": "0002",
+        "imgUrlA": "static/img/sqmeau2.png",
+        "wordA": "每日特惠"
+      }, {
+        "id": "0003",
+        "imgUrlA": "static/img/sqmeau3.png",
+        "wordA": "领钢镚"
+      }, {
+        "id": "0004",
+        "imgUrlA": "static/img/sqmeau4.png",
+        "wordA": "信用卡还款"
+      }, {
+        "id": "0005",
+        "imgUrlA": "static/img/sqmeau5.png",
+        "wordA": "火车票"
+      }
+    ]
+  }
+}

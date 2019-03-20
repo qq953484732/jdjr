@@ -1,0 +1,143 @@
+{
+  "data":{
+    "iconList": [{
+      "id":"0001",
+      "imgUrl":"./static/img/indMeau2.png",
+      "desc":"领福利"
+    },{
+      "id":"0002",
+      "imgUrl":"./static/img/indMeau3.png",
+      "desc":"抢钢镚"
+    },{
+      "id":"0003",
+      "imgUrl":"./static/img/indMeau4.png",
+      "desc":"白条提额"
+    },{
+      "id": "0004",
+      "imgUrl": "./static/img/indMeau5.png",
+      "desc": "工资理财"
+    },{
+      "id": "0005",
+      "imgUrl": "./static/img/indMeau1.png",
+      "desc": "众筹"
+    },{
+      "id": "0006",
+      "imgUrl": "./static/img/indMeau2.png",
+      "desc": "租房"
+    },{
+      "id": "0007",
+      "imgUrl": "./static/img/indMeau3.png",
+      "desc": "车主服务"
+    }],
+    "wordList": [
+      {
+        "id": "0001",
+        "wordA": "长乐盈",
+        "wordB": "180天可质押",
+        "wordC": "5.80%",
+        "wordD": "近1年历史年化投资回报率"
+      },
+      {
+        "id": "0002",
+        "wordA": "长乐盈",
+        "wordB": "180天可质押",
+        "wordC": "5.80%",
+        "wordD": "近1年历史年化投资回报率"
+      },
+      {
+        "id": "0003",
+        "wordA": "长乐盈",
+        "wordB": "180天可质押",
+        "wordC": "5.80%",
+        "wordD": "近1年历史年化投资回报率"
+      },
+      {
+        "id": "0004",
+        "wordA": "长乐盈",
+        "wordB": "180天可质押",
+        "wordC": "5.80%",
+        "wordD": "近1年历史年化投资回报率"
+      }],
+    "title":["-理财精选-","-赏金任务-","-保险保障-","-众筹新品-"],
+    "imgList": [
+      {
+        "id":"0001",
+        "imgUrl":"./static/img/bx1.jpg"
+      },
+      {
+        "id": "0002",
+        "imgUrl":"./static/img/bx2.jpg"
+
+      },
+      {
+        "id": "0003",
+        "imgUrl": "./static/img/bx3.jpg"
+      },
+      {
+        "id": "0004",
+        "imgUrl": "./static/img/bx1.jpg"
+      },
+      {
+        "id": "0005",
+        "imgUrl": "./static/img/bx2.jpg"
+      }
+    ],
+    "picList": [
+      {
+        "id": "0001",
+        "picA": "赚成长值",
+        "picB": "提升会员等级",
+        "picUrl": "./static/img/sj.png",
+        "picC": "100金币",
+        "picD":"我的成长值"
+      },
+      {
+        "id": "0002",
+        "picA": "赚成长值",
+        "picB": "提升会员等级",
+        "picUrl": "./static/img/sj.png",
+        "picC": "100金币",
+        "picD":"我的成长值"
+      },
+      {
+        "id": "0003",
+        "picA": "赚成长值",
+        "picB": "提升会员等级",
+        "picUrl": "./static/img/sj.png",
+        "picC": "100金币",
+        "picD":"我的成长值"
+      }
+    ],
+    "zcList":[
+      {
+        "id":"0001",
+        "imgUrl":"./static/img/zc3.jpg"
+      },
+      {
+        "id": "0002",
+        "imgUrl":"./static/img/zc2.jpg"
+
+      },
+      {
+        "id": "0003",
+        "imgUrl": "./static/img/zc1.jpg"
+      }
+    ],
+    "bannerList":[
+      {
+        "id":"0001",
+        "imgUrl":"./static/img/indBanner1.png"
+      },
+      {
+        "id":"0002",
+        "imgUrl":"./static/img/indBanner2.png"
+      },
+      {
+        "id":"0003",
+        "imgUrl":"./static/img/indBanner3.png"
+      }]
+  }
+}
+
+
+

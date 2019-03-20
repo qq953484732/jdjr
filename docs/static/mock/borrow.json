@@ -1,0 +1,93 @@
+{
+  "data":{
+    "iconList":[
+      {
+        "id":"0001",
+        "imgUrl":"../../../../static/img/jq-jp.png",
+        "desc":"机票"
+      },
+      {
+        "id":"0002",
+        "imgUrl":"../../../../static/img/jq-zf.png",
+        "desc":"租房"
+      },
+      {
+        "id":"0003",
+        "imgUrl":"../../../../static/img/jq-fd.png",
+        "desc":"房抵贷"
+      },{
+        "id":"0004",
+        "imgUrl":"../../../../static/img/jq-fq.png",
+        "desc":"分期用"
+      },{
+        "id":"0005",
+        "imgUrl":"../../../../static/img/jq-cp.png",
+        "desc":"彩票推荐"
+      },{
+        "id":"0006",
+        "imgUrl":"../../../../static/img/jq-cp.png",
+        "desc":"众筹"
+      }
+    ,{
+        "id":"0007",
+        "imgUrl":"../../../../static/img/jq-cp.png",
+        "desc":"租房"
+      },{
+        "id":"0008",
+        "imgUrl":"../../../../static/img/jq-cp.png",
+        "desc":"车主服务"
+      },{
+        "id":"0009",
+        "imgUrl":"../../../../static/img/jq-cp.png",
+        "desc":"机票"
+      },{
+        "id":"0010",
+        "imgUrl":"../../../../static/img/jq-cp.png",
+        "desc":"机票"
+      }
+    ],
+    "title":["有车有钱","白条服务","精品活动"],
+    "havemoneyList": [
+      {
+        "id":"0001",
+        "imgUrl":"/../static/img/jq-ycyq.png"
+      },
+      {
+        "id": "0002",
+        "imgUrl":"/../static/img/jq-ycyq2.png"
+
+      }],
+    "btList": [
+      {
+        "id":"0001",
+        "imgUrl":"static/img/whiteCard.png"
+      },
+      {
+        "id": "0002",
+        "imgUrl":"static/img/whiteCircle.png"
+
+      }],
+    "jpList": [
+      {
+        "id":"0001",
+        "imgUrl":"static/img/jq-jphd.png"
+      }
+    ],
+    "bannerList":[
+      {
+        "id":"0001",
+        "imgUrl":"./static/img/indBanner1.png"
+      },
+      {
+        "id":"0002",
+        "imgUrl":"./static/img/indBanner2.png"
+      },
+      {
+        "id":"0003",
+        "imgUrl":"./static/img/indBanner3.png"
+      }]
+  }
+}
+
+
+

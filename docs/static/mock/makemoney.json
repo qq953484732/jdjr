@@ -1,0 +1,94 @@
+{
+  "data":{
+    "mmList": [
+      {
+        "id": "0001",
+        "imgUrlA": "static/img/mm_icon1.png",
+        "wordA": "领红包"
+      }, {
+        "id": "0002",
+        "imgUrlA": "static/img/mm_icon2.png",
+        "wordA": "领福利"
+      }, {
+        "id": "0003",
+        "imgUrlA": "static/img/mm_icon3.png",
+        "wordA": "领京豆"
+      }, {
+        "id": "0004",
+        "imgUrlA": "static/img/mm_icon4.png",
+        "wordA": "领劵"
+      }, {
+        "id": "0005",
+        "imgUrlA": "static/img/mm_icon5.png",
+        "wordA": "工资理财"
+      }
+    ],
+    "picList": [
+         "static/img/mm_img.jpg",
+         "static/img/mm_jinbidh.png",
+        "static/img/mm_bt.png"
+    ], "imgList": [
+      {
+        "id": "0001",
+        "picA": "赚成长值",
+        "picB": "提升会员等级",
+        "picUrl": "./static/img/sj.png",
+        "picC": "100金币",
+        "picD":"我的成长值"
+      },
+      {
+        "id": "0002",
+        "picA": "赚成长值",
+        "picB": "提升会员等级",
+        "picUrl": "./static/img/sj.png",
+        "picC": "100金币",
+        "picD":"我的成长值"
+      },
+      {
+        "id": "0003",
+        "picA": "赚成长值",
+        "picB": "提升会员等级",
+        "picUrl": "./static/img/sj.png",
+        "picC": "100金币",
+        "picD":"我的成长值"
+      }
+    ], "imgsList": [
+      {
+        "id":"0001",
+        "imgUrl":"./static/img/mm_bank.png"
+      },
+      {
+        "id": "0002",
+        "imgUrl":"./static/img/mm_bank2.png"
+
+      },
+      {
+        "id": "0003",
+        "imgUrl": "./static/img/mm_bank3.png"
+      },
+      {
+        "id": "0004",
+        "imgUrl": "./static/img/mm_bank4.png"
+      }
+    ],
+    "picsList": [
+      {
+        "id":"0001",
+        "imgUrl":"./static/img/mm_rx1.jpg"
+      },
+      {
+        "id": "0002",
+        "imgUrl":"./static/img/mm_rx2.jpg"
+
+      },
+      {
+        "id": "0003",
+        "imgUrl": "./static/img/mm_rx3.jpg"
+      },
+      {
+        "id": "0004",
+        "imgUrl": "./static/img/mm_rx4.jpg"
+      }
+    ]
+  }
+}
